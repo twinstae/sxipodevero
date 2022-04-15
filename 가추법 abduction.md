@@ -1,0 +1,1 @@
+가설 추리, 최선 설명으로서의 추리(Inference to the Best Explanation)라고도 한다.

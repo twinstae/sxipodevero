@@ -1,0 +1,1 @@
+매우 빠른 [[인메모리 in memory]] [[키-값 key-value]] [[데이터베이스 Database]]

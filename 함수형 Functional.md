@@ -1,0 +1,1 @@
+[[순수 함수 Pure Function]]를 [[합성 Composition]]하여 개발하는 방식. [[부수효과 Side Effect]]

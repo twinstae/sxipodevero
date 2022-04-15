@@ -1,0 +1,1 @@
+자바 루씬에 기반한 [[분산형 Distributed]] [[검색엔진 Search Engine]] [[데이터베이스 Database]]

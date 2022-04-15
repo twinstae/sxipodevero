@@ -1,0 +1,1 @@
+[[리액트 React]], [[뷰 Vue]], [[스벨트 Svelte]]같은 여러 프레임워크 간에 컴포넌트 호환이 가능하게 [[정적 사이트 생성 SSG Static Site Generation|SSG]]를 지원하는 [[프레임워크 Framework]]

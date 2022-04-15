@@ -1,0 +1,1 @@
+[[접근성 Accessibility]]을 위해 힘쓰시는 IOS 개발자. 뱅크샐러드에서 일하고 있다. [[테스트 주도 개발 Test Driven Development]]을 사랑하신다.

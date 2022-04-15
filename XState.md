@@ -1,0 +1,1 @@
+[[액터 모델 Actor Model]]과 [[유한 상태 기계 Finite State Machine]]을 토대로 만든 [[반응형 상태 관리 Reactive State Management]] 라이브러리
