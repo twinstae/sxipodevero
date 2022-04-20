@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d0fc088a72d48c3c",
+        "id": "a615e82c90d883cc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "개발자는 어떤 책임을 지는가.md",
-            "mode": "source"
+            "file": "철학과를 나온 개발자는 현명하다는 편견.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "정적 타입",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230
+    "width": 310.5
   },
   "right": {
     "id": "3be9c1c494cf9522",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발자는 어떤 책임을 지는가.md",
+                "file": "철학과를 나온 개발자는 현명하다는 편견.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0fc088a72d48c3c",
+  "active": "a615e82c90d883cc",
   "lastOpenFiles": [
-    "개발자는 어떤 책임을 지는가.md",
-    "기초부터 완성까지, 프런트엔드.md",
-    "성능 performance.md",
-    "DB 테스트.md",
-    "파이썬 알고리즘 인터뷰.md",
-    "처음 배우는 엘릭서 프로그래밍.md",
-    "프로그래머의 허리 건강을 위하여.md",
-    "이산수학.md",
-    "인포메이션 아키텍처.md",
-    "프로그래머의 뇌.md"
+    "철학과를 나온 개발자는 현명하다는 편견.md",
+    "나는 사랑하는 사람을 좋아한다.md",
+    "프로젝트.md",
+    "나는 투쟁하는 사람을 사랑한다.md",
+    "엘릭서 Elixir.md",
+    "속성 기반 검사를 구현한 테스트 프레임워크.md",
+    "속성 기반 검사 Property Based Testing.md",
+    "소스 코드 source code.md",
+    "범주론 Category Theory.md",
+    "모나드 Monad.md"
   ]
 }

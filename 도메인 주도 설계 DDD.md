@@ -1,0 +1,1 @@
+영어로 풀어 쓰면 Domain Driven Design 이라고 한다.

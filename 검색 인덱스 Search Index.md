@@ -1,0 +1,1 @@
+[실시간 인덱싱을 위한 Elasticsearch 구조를 찾아서 - 우아한 형제들 기술 블로그](https://techblog.woowahan.com/7425/)

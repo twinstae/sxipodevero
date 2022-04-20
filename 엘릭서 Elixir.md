@@ -1,0 +1,1 @@
+[[액터 모델 Actor Model]]에 기반한 [[얼랭 Erlang]] [[VM 가상 기계]]에서 돌아가는 [[루비 Ruby]] 스타일의 [[함수형 Functional]] [[프로그래밍 언어 Programming Language]]

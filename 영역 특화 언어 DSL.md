@@ -1,0 +1,1 @@
+영어로는 Domain Specific Language라고 한다.
