@@ -1,0 +1,1 @@
+테스팅 라이브러리는 kent c dodd 가 만든 [[접근성 Accessibility]] 기반으로 [[웹 Web]] [[사용자 인터페이스 UI]]를 테스트할 수 있는 [[라이브러리 Library]] 다.
