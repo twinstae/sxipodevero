@@ -1,1 +1,1 @@
-[[액터 모델 Actor Model]]에 기반한 [[노드.js Node.js]] [[프레임워크 Framework]]
+[[자바스크립트 Javascript]]에서 돌아가는 [[액터 모델 Actor Model]] [[구현체 Implementation]] 개발팀은 서버에서 돌아가는 리덕스로 비유하는데. 메세지(action)을 dispatch 해서 [[순수 함수 Pure Function]]로 [[상태 State]]를 변경한다는 점은 비슷하지만, 그 외에는 차이가 많다.

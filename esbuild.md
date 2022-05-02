@@ -1,4 +1,5 @@
-# [esbuild](https://esbuild.github.io)
+[깃허브](https://esbuild.github.io)
+
 > An extremely fast JavaScript bundler
 
 [[고 Go]] 로 만들어서 [[웹팩 webpack]]보다 매우 빠른 js [[모듈 번들러 Module Bundler]]라고 한다. 짧게는 몇 초부터 길게는 1분 넘게 걸리는 webpack 번들링을 기다리는 고통을 줄여준다. 자체 벤치마크에 따르면 웹팩5로 41.53초가 걸리는 번들링을, 0.33초만에 끝낸다고 한다.

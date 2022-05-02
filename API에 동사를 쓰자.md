@@ -1,4 +1,4 @@
-특히 [[REST REpresentational State Transfer|REST]] [[API Application Programming Interface]]에서는 url에 명사만 쓰라 하는데, 일반적인 함수나 메서드처럼 api에 자연스러운 [[도메인 주도 설계 DDD|도메인]]의 동사를 쓰자는 주장이다.
+특히 [[REST REpresentational State Transfer|REST]] [[API]]에서는 url에 명사만 쓰라 하는데, 일반적인 함수나 메서드처럼 api에 자연스러운 [[도메인 주도 설계 DDD|도메인]]의 동사를 쓰자는 주장이다.
 
 http가 원래 html 파일 같은 자원을 전송하기 위해 만들어졌지만. api 가 복잡해지면서 단순한 [[CRUD Create Read Update Delete|CRUD]]에 대응되지 않는 동작이 많아졌다. "[[도메인 주도 설계에서는 CRUD로 모델링하는 걸 싫어한다]]"는 것과 연결되니 해당 항목의 예시를 참조하자.
 

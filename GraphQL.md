@@ -3,7 +3,7 @@
 [GraphQL is not just a network protocol](https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/)
 [Thinking in GraphQL](https://blog.cometkim.kr/posts/thinking-in-graphql-ko/)
 
-[[페이스북 Facebook]]에서 만든 [[API Application Programming Interface|API]]를 위한 언어. [[REST REpresentational State Transfer|REST]] API를 대체하는 것처럼 소개되지만, 이름처럼 SQL 대신 [[Dgraph]]같은 데이터베이스의 쿼리 언어로도 사용된다.
+[[페이스북 Facebook]]에서 만든 [[API|API]]를 위한 언어. [[REST REpresentational State Transfer|REST]] API를 대체하는 것처럼 소개되지만, 이름처럼 SQL 대신 [[Dgraph]]같은 데이터베이스의 쿼리 언어로도 사용된다.
 
 [[도구 tooling|툴링]]이 괜찮은 편인데. [[OpenAPI]]처럼 [[스키마 Schema]]를 작성할 수 있고, 자동으로 여러 [[프로그래밍 언어 Programming Language|언어]]의 [[클라이언트 Client|클라이언트]]나 [[타입 Type|타입]] 정의 파일, 프로젝트의 틀을 [[자동 생성 Auto Generation|자동으로 생성]]해주기도 한다.
 

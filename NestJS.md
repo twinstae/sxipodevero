@@ -1,0 +1,1 @@
+[[노드.js Node.js]] 생태계에 c#이나 [[스프링 Spring]]에 준하는 [[아키텍처 Architecture]]를 제공하는 걸 목표로 하는 [[웹 서버 Web Server]] [[프레임워크 Framework]]. [[Under the Hood|내부]]적으로 [[Express]]를 사용하고 있지만, [[Fastify]] [[구현체 Implementation]]를 사용할 수도 있다.

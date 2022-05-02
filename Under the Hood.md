@@ -8,6 +8,6 @@ EasyRpc 라는 라이브러리는 FastAPI를 이용해 만들었다고 하며
 [[FastAPI]]는 데이터 [[검증 Validation]]은 [[Pydantic]]을 이용하고, 서버 자체는 [[Starllete]]의 기능을 이용한다. Strallete은 또 Uvicorn으로 만들었다.
 > Under the hood, FastAPI uses Pydantic for data validation and Starlette for tooling
 
-[[Nest]] 는 내부적으로 [[Express]]를 사용하지만, [[Fastify]]를 이용한 [[어댑터 Adapter]]를 사용할 수도 있다.
+[[NestJS]] 는 내부적으로 [[Express]]를 사용하지만, [[Fastify]]를 이용한 [[어댑터 Adapter]]를 사용할 수도 있다.
 > Under the hood, Nest makes use of robust HTTP Server frameworks like [Express](https://expressjs.com/) (the default) and optionally can be configured to use [Fastify](https://github.com/fastify/fastify) as well! - [Nest 공식 문서](https://docs.nestjs.com)
 

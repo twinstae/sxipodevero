@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "afef83c3786b3732",
+        "id": "45c4efc3aa6c504c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "디노 Deno.md",
+            "file": "Material for MkDocs.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fauna",
+                "query": "native",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 283.5
   },
   "right": {
     "id": "3be9c1c494cf9522",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디노 Deno.md",
+                "file": "Material for MkDocs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,25 +79,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "a7be2035286418a8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "afef83c3786b3732",
+  "active": "45c4efc3aa6c504c",
   "lastOpenFiles": [
-    "디노 Deno.md",
-    "타우리 Tauri.md",
-    "키-값 key-value.md",
-    "명시적으로 허용하지 않은 기능은 사용할 수 없다.md",
-    "호환성 compatibility.md",
-    "웹 표준 Web Standard.md",
-    "V8 엔진.md",
-    "구현체 Implementation.md",
-    "라이언 달 Ryan Dahl.md",
-    "타입스크립트 TypeScript.md"
+    "Material for MkDocs.md",
+    "점진적 웹 애플리케이션 PWA.md",
+    "diary/2022-05-01.md",
+    "내 삶의 목적.md",
+    "프로그래밍 언어별 관심 있는 이유.md",
+    "진리의 배 Sxipo De Vero.md",
+    "골드버그적 가치.md",
+    "쓸모가 우선해야 한다.md",
+    "줄리아 Julia.md",
+    "diary/2022-04-30.md"
   ]
 }

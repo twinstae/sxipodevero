@@ -1,1 +1,1 @@
-[[HTTP]]/[[REST REpresentational State Transfer]] [[API Application Programming Interface]] 를 명세하는 표준. Swagger 에서 Apache로 넘겨져서 표준이 되었다.
+[[HTTP]]/[[REST REpresentational State Transfer|REST]] [[API|API]] 를 명세하는 표준. Swagger 에서 Apache로 넘겨져서 표준이 되었다.

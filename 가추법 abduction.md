@@ -1,1 +1,1 @@
-가설 추리, 최선 설명으로서의 추리(Inference to the Best Explanation)라고도 한다.
+가설 추리, 최선 설명으로서의 추리(Inference to the Best Explanation)라고도 한다.셜록 홈즈 같은 탐정이나, 의사, 프로그래머들이 버그를 찾을 때 쓰는 추리 방식이다.

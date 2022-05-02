@@ -1,0 +1,3 @@
+러스트는 [[소유권 Ownership]] 개념을 토대로 [[쓰레기 수집기 Garbage Collector|가비지 컬렉터]] 같은 [[실행 환경 Running Environment|런타임 환경]] 없이도 [[메모리 안전 Memory Safety]]한 프로그램을 작성할 수 있게 도와주는 [[어셈블리 Assembly]]로 [[컴파일 Compile]] 되는 [[프로그래밍 언어 Programming Language]]이다.
+
+[[모질라 Mozilla]] 재단의 연구 프로젝트로 시작했다. [[저수준 Low Level]] [[시스템 프로그래밍]] 언어인 [[C++]] 뿐만 아니라 [[오카믈 Ocaml]]이나 [[하스켈 Haskell]] 같은 강타입 함수형 언어, 그리고 [[액터 모델 Actor Model]]에 기반한 강력한 [[동시성 Concurrency]]을 지원하는 [[얼랭 Erlang]]의 영향을 받았다.
