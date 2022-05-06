@@ -1,0 +1,1 @@
+[[jsdom]]을 대체하려 하는 [[가짜 돔 구현체 fake dom implementation]]다. 

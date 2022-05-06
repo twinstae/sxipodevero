@@ -1,4 +1,4 @@
-[[접근성 Accessibility]]을 위해 힘쓰시는 IOS 개발자. 눈 오늘 날에 아내 님과 숲 속 도서관에 다녀오셨다고 한다. 뱅크샐러드에서 일하고 있다. [[테스트 주도 개발 Test Driven Development]]에도 열정적이시다. [[철학과를 나온 개발자는 현명하다는 편견]]을 강화하는 [[귀납 Induction]]적 사례 중 한 분.
+[[접근성 Accessibility]]을 위해 힘쓰시는 IOS 개발자. [눈 오는 날에 아내 님과 숲 속 도서관에 다녀오셨다고 한다.](https://twitter.com/SungdooYoo/status/1472147127996665857) 뱅크샐러드에서 일하고 있다. [[테스트 주도 개발 Test Driven Development]]에도 열정적이시다. [[철학과를 나온 개발자는 현명하다는 편견]]을 강화하는 [[귀납 Induction]]적 사례 중 한 분.
 
 [트위터](https://twitter.com/SungdooYoo)
 

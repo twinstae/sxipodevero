@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "45c4efc3aa6c504c",
+        "id": "ded9efcdd59d4f15",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "Material for MkDocs.md",
-            "mode": "source",
-            "source": false
+            "file": ".obsidian/workspace",
+            "staged": false
           }
         }
       }
@@ -40,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "native",
+                "query": "딕셔",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +68,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material for MkDocs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +93,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "45c4efc3aa6c504c",
+  "active": "ded9efcdd59d4f15",
   "lastOpenFiles": [
-    "Material for MkDocs.md",
-    "점진적 웹 애플리케이션 PWA.md",
-    "diary/2022-05-01.md",
-    "내 삶의 목적.md",
-    "프로그래밍 언어별 관심 있는 이유.md",
-    "진리의 배 Sxipo De Vero.md",
-    "골드버그적 가치.md",
-    "쓸모가 우선해야 한다.md",
-    "줄리아 Julia.md",
-    "diary/2022-04-30.md"
+    "static/logo.png",
+    "static/graph-visualisation.jpg",
+    "파이프 연산자 Pipe Operator.md",
+    "패턴매칭 Pattern Matching.md",
+    "@testing-library.md",
+    "맵 Map.md",
+    "구조체 vs 맵.md",
+    "딕셔너리 dictionary.md",
+    "Untitled 1.md",
+    "추상 자료구조 ADT.md"
   ]
 }

@@ -1,1 +1,12 @@
-테스팅 라이브러리는 kent c dodd 가 만든 [[접근성 Accessibility]] 기반으로 [[웹 Web]] [[사용자 인터페이스 UI]]를 [[테스트 자동화 Test Automation|테스트 자동화]]하는 [[라이브러리 Library]] 다.
+테스팅 라이브러리는 [[Kent C. Dodds]]가 만든 [[접근성 Accessibility]] 기반으로 [[웹 Web]] [[사용자 인터페이스 UI]]를 [[테스트 자동화 Test Automation|테스트 자동화]]하는 [[라이브러리 Library]] 다.
+
+구체적으로는 텍스트나 라벨을 가지고 dom element 를 가져올 수 있게 접근성 기반의 [[선택자 Selector]]와 [[단언 Assertion]]을 제공하는 @testing-library/dom, 그리고 실제 사용자 동작을 모의해주는 @testing-library/use-event 라이브러리가 핵심이다. 그 외에도 [[리액트 React]] 같은 [[라이브러리 Library]]나 [[뷰 Vue]], [[스벨트 Svelte]] 같은 [[프레임워크 Framework]]에 마다 [[컴포넌트 Component]]를 렌더링하고 정리해주는 테스트 유틸리티를 제공한다.
+
+보통 [[Jest]]나 [[Vitest]]같은 [[테스트 실행기]] 위에서 돌린다. 이런 [[노드.js Node.js]] 기반의 환경에서는 브라우저처럼 dom이 없기 때문에 보통 [[jsdom]]이나 [[happy-dom]] 같은 [[가짜 돔 구현체]]를 사용한다.
+
+테스팅 라이브러리는 [[Create React App]]으로 프로젝트를 만들면 기본 내장되어 있다. 뷰 Vue [공식 문서에서도 컴포넌트 테스팅 라이브러리로 권장](https://vuejs.org/guide/scaling-up/testing.html#mounting-libraries)하고 있다. 스벨트도 마찬가지로 [테스팅 라이브러리를 가장 먼저 소개](https://svelte.dev/faq#how-do-i-test-svelte-apps)하고 있다.
+
+## 이야기
+나는 특히 테스팅 라이브러리가 접근성 기반으로 실제 사용자처럼 생각하면서 컴포넌트를 테스트할 수 있게 해주기 때문에 좋아한다. 리액트의 [[enzyme]]이나 뷰의 [[vue-test-utils]] 같은 라이브러리는 id나 클래스 같은 [[CSS]] 선택자를 기준으로 컴포넌트를 선택하는데. 이런 css 선택자는 자주 바뀌기도 하지만, 직관적이지 않아서 사용하기 귀찮다. 반면에 텍스트나 라벨은 더 직관적이기도 하며, 텍스트가 올바르게 렌더링 되었는지 따로 검증하지 않아도 되니까 편하다.
+
+게다가 이렇게 [[문서 객체 모델 DOM]]과 [[사용자 인터페이스 UI]]를 기반으로 테스트하면 리액트나 뷰, 스벨트의 구체적인 [[구현이 아니라 인터페이스를 테스트하자|구현을 테스트하지 않게]]되어서. 내부 구현을 [[리팩토링 Refactoring]] 해도 테스트가 깨지지 않고. 내부 상태는 잘 변해서 테스트를 통과했지만 결과인 UI가 깨졌을 때에도 올바르게 피드백을 받을 수 있다.

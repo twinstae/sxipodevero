@@ -1,1 +1,1 @@
-[[커맨드라인 Command Line]]에서 돌아가는 [[텍스트 편집기 Text Editor]] 강력한 [[단축키 Short Cut]]와 [[플러그인 Plugin]] 시스템이 특징이다 
+[[커맨드라인 Command Line]]에서 돌아가는 [[텍스트 편집기 Text Editor]] 강력한 [[단축키 Short Cut]]와 [[플러그인 Plug-In]] 시스템이 특징이다 
