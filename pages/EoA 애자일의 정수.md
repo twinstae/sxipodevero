@@ -1,0 +1,18 @@
+- 불확실성이 높은 상황에 효과적으로 대응하는전략
+- Avoid big loss: 큰 손실 피하기
+	- Redundancy: 중복을 허용하기
+	- Detectearly: 문제를 빠르게 감지하기
+	- Asymmetry: 비대칭성 확립하기 (밑져야 본전구조)
+- Learn as you go: 계속 배우면서 나아가기
+	- Feedback & adapt: 피드백을  받고 재조정하면서 나아가기
+	- Receiving new info: 새로운 정보 얻기
+	- Many projects, sequential: 많은 프로젝트를 하는 것처럼 순차적으로 나아가기
+- Achieve critical early with less effort: 핵심적인  것을 일찍  적은 노력으로 성취하기
+	- Piecemeal & center first: 가장 중요한 것을 먼저하되 작은 단위로 쪼개서 진행하기
+	- Work with stakeholders: 이해관계자와 함께 일하기
+- Be flexible:유연하게대처하기
+	- High ground for change: 변화에 유리한 지점 선점하기
+	- Realoption: 선택의 옵션 만들어두기
+	- Diversify: 외부 자극에 다양하게 대응하기
+	- Slack: 여유 확보하기
+	- Generative Sequence: 생성적 순서
