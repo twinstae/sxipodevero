@@ -4,7 +4,7 @@
 	- 여러 페이지에 걸쳐 일어나는 로직들을 정확하게 만들기 어려움
 		- ex VWR, payment method
 	- 페이지마다 나누는 것도 좋지만, domain에 따른 구분도 필요함 (payment method, VWR 등)
-- 서스펜스와 지역 상태 잘 쓰기
+- 서스펜스와 지역 상태 우선으로 개발
 	- useEffect나 onSuccess 등의 필요성을 매우 줄여줍니다
 - 의존성 관리
 	- localStorage, clipboard, window(server)
