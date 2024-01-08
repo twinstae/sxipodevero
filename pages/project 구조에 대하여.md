@@ -7,7 +7,9 @@
 - 서스펜스와 지역 상태 우선으로 개발
 	- useEffect나 onSuccess 등의 필요성을 매우 줄여줍니다
 - 의존성 관리
-	- localStorage, clipboard, window(server)
+	- localStorage vs cookie, clipboard, window(server)
+		- 얼마 되지도 않는데 미리 감싸둡시다
+	- client only
 	- pages router => app router 전환을 대비
 - validation pipeline
 	- schema와 valibot 잘 사용하기
