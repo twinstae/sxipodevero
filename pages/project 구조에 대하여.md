@@ -1,0 +1,30 @@
+- 의존성 관리
+- 로직의 파편화
+	- atom
+	- components
+	- hooks
+	- pages
+	- ... refactoring할 때 특히 힘듬.
+	- nestjs 스러운 구조는 어떨까요?
+		- Arti
+			- components
+				- ArtiProfile
+					- index.tsx
+					- styles.ts
+		- Feed
+			- atoms
+			- queries
+				- useFeedListQuery
+			- hooks
+				- useFavorite
+				- useTranslateContent
+				-
+			- components
+				- FeedListItem
+					- index.tsx
+					- index.test.tsx
+					- styles.ts
+				- FeedList
+					- index.tsx
+					- styles.ts
+			-
