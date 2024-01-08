@@ -1,4 +1,11 @@
 - 의존성 관리
+	- copy, localStorage,
+- validation pipeline
+	- schema와 valibot 잘 사용하기
+	- 보통 복잡해지는 로직들을 보면 검증이나 조건부 로직들임~
+	- test 가능한 선언적 모델로 만들어야...
+-
+	-
 - 로직의 파편화
 	- atom
 	- components
@@ -12,13 +19,12 @@
 					- index.tsx
 					- styles.ts
 		- Feed
-			- atoms
 			- queries
-				- useFeedListQuery
+				- useInfiniteFeedListQuery
+				- useFavoriteMutation
 			- hooks
-				- useFavorite
 				- useTranslateContent
-				-
+				- useCurrentArtist (router, atom ...)
 			- components
 				- FeedListItem
 					- index.tsx
@@ -27,4 +33,3 @@
 				- FeedList
 					- index.tsx
 					- styles.ts
-			-
