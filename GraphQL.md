@@ -5,7 +5,7 @@
 
 [[페이스북 Facebook]]에서 만든 [[API|API]]를 위한 언어. [[REST REpresentational State Transfer|REST]] API를 대체하는 것처럼 소개되지만, 이름처럼 SQL 대신 [[Dgraph]]같은 데이터베이스의 쿼리 언어로도 사용된다.
 
-[[도구 tooling|툴링]]이 괜찮은 편인데. [[OpenAPI]]처럼 [[스키마 Schema]]를 작성할 수 있고, 자동으로 여러 [[프로그래밍 언어 Programming Language|언어]]의 [[클라이언트 Client|클라이언트]]나 [[타입 Type|타입]] 정의 파일, 프로젝트의 틀을 [[자동 생성 Auto Generation|자동으로 생성]]해주기도 한다.
+[[도구 tooling|툴링]]이 괜찮은 편인데. [[OpenAPI]]처럼 [[스키마 Schema]]를 작성할 수 있고, 자동으로 여러 [[프로그래밍 언어 Programming Language]]의 [[클라이언트 Client|클라이언트]]나 [[타입 Type|타입]] 정의 파일, 프로젝트의 틀을 [[자동 생성 Auto Generation|자동으로 생성]]해주기도 한다.
 
 중첩된 데이터를 가져오는 경우에, REST API는 지나치게 많은 요청을 보내야 하는 경우가 많았는데. [[N+1 문제]]처럼 성능 상으로도 문제지만, 변경되는 API를 관리하기도 어려웠다.
 

@@ -1,1 +1,1 @@
-[[구글 Google]]에서 만든 [[RPC Remote Procedure Call|RPC]] [[프로토콜 Protocol|프로토콜]]이라서 gRPC라는 이름이 붙었다. 다양한 [[프로그래밍 언어 Programming Language|언어]] [[실행 환경 Running Environment|실행환경]]을 지원한다. [[마이크로서비스 Micro Service]] 같은 [[분산형 Distributed]] 아키텍처에서 서비스 간 통신과 연동을 위해 많이 쓰인다.
+[[구글 Google]]에서 만든 [[RPC Remote Procedure Call|RPC]] [[프로토콜 Protocol|프로토콜]]이라서 gRPC라는 이름이 붙었다. 다양한 [[프로그래밍 언어 Programming Language]] [[실행 환경 Running Environment|실행환경]]을 지원한다. [[마이크로서비스 Micro Service]] 같은 [[분산형 Distributed]] 아키텍처에서 서비스 간 통신과 연동을 위해 많이 쓰인다.
